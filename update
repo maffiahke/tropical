@@ -1,1 +1,42 @@
-SoBuVYr878CJ/OQ8iMi0a3YDYGOgHy9scB+DpAbGtajoCaRYwNwXn1LLjQVHI/PPN3PcOLFLz8xA5zsOqjfoB4G+yWicC9vcwhvmg8mpt6YQwcdxV52UY8Dtgo4tLTh71RdigLP32mmwpKRWrU4e2eCfUD0M8t8RkctyPCqF8UYjYUQou9UMeHmLU9+1eYgSaQr8wdo6QkwYEpdxxRC5DmbxHAib2/hrDU8911Pj1gMcQTeSiLAFaudMKUVggREwYPexT1WBRllXq01XyySxNb4Tv9x60aJKIEuKX6RMAtfXDDt52wpJmF/9sbXEdsmp7s93lG8nglhn+NnatbWIle1fMosDGb4D4M6PEwe6K3AvPPp5Dkk5YImPGQxn7Vwj5CgVz9AK4BMC435kunFf/vRex8BdA3CvWoe3l5z/vQqEaC/3ir9dG8pXbdpi/xL50VG2UT4FD7mDOt3e6+NbBqzqOi0h3qOYBYgZFs6YDJLYrs/cB/lHYqnnKBNYnjHZiLDjWaS3xu5WK4WOYfXISviGA280x1OKY9lwLwKAvpc3RD3Z79LSzuh9jwqaLdCVesFVO93BGmia5A+gxhZm5lh0XsFxJcqgaqt6JC/s8RZzHgA1T+3ur84Vl3vnpFSUCRdj5LOA/s58tsAG2eX+cacyOhkLrYXWq7ocq1KjGXg8+0PDGoMBrUficNaVAthXX6Jfv3+TAe2bdeaKn72bg5gs36QMLXExGoLfaH7myp/aoONLer8PLqbWjWz2/xaJZ/W6jufCfQpT97trUp1qMjVilnH8881P4VFA/Ng4Dd4ZYLNcWFr/GK5kYBGefa5GTUqhoSbbmUhRCKX5CqFWM1V3RyvT99ZCF3OnK+opAlGGvxpo7+1iEUbFK6DPFlpRae5epsicC9yOx7ABClvKzS+Tdnrx807OtSaFcw8+R67oDkce4uERJMTLuN8uBlGymkDnhr9SGMrIHQbOkcoLCdUueL53/5DdlwnjNHY9mav2fTsGKK3khaP+iUZWe/xx5tFr8fbhZxfrtZ92LLx5U/ObaWgcPB4CsEPd2z+fT5as3A5ZBvPsnf1b3kJ3EkLqmisuCzdTA1MS+FXbRCNg6d+QSBvH1Nb88I8I8f1F2ZcZCTcAOf4HbdfTyueUPB6hdIWFGKkjDsQmh1P66wCp8JYAutSZEb/jIHzKyUwbq9XJY16hVHsdVzTRBJVbfcnIaLJvW8b1jdJ8+YDbiBEj/yOnNg0jC81LYIi5jz8i+93py7MmEBmdIqTNdQzCIJUnhseKlbWa00jEVSJEX+nattEwSh8mv1wx4exQplHJVl+51/FBJPLiICCUjWQhW+xR/CeAHECHfWecelc3DOIFDsnyjZr/GImRkiov6uUb6i0Ra44erBWjm/00OQV+gydyb8k7ZDj2hAVU9w4eBINVazr5cwNMGN9xrl0sIADiqb2KUenBcptXsxIJYUxFNR2S1aC2FCNEQP+C2tdC0ATJz8bqQ1r7ofTkwhG6S06dKiA9KbIpzbVagw2+DpZLRiKGTAcVrdMvLYi6lWQgxa19BUmHyxZ+Uty1ylBcf3D/65UdgQyUJRAs0gzgo55oPHFIZ/sbkVMyD3lJm8eXy9IAHR/sJ0rYMZwM8WjFsIXVa4J7Kx33M2IAbQwH4A4ptLmWDwlHTV7uvxTIvUFr9X0EJGYatx5bwryCc+SdqllPkCcHEnjFKoEx2aY+0ZsU5maXg0OL0juGW+CS+d0xt4YYU5y5Ud8eEvyBUYFs6L3t6vgRhSpKIA6PMntxr1p7mugIxk51tIW6a+VaMCVDS2hJaL2Uzetsc9qJ83FqgSHQ2QMHGFfpHSzIzFAWJq0jylX3wHvLGV5y+NM=
+{
+  "EnableAds": true,
+  "EnableTimer": true,
+  "Notes": "official Update ",
+  "Password": "Techjei1",
+  "Servers": [
+    {
+      "Flag": "gb",
+      "Name": "United kingdom",
+      "Port1": "22",
+      "Port2": "80",
+      "Port3": "443",
+      "Protocol": "SSH",
+      "SSHPort": "22",
+      "ServerIP": "vsa7.dozapp.xyz",
+      "ServerPass": "doingsedozlite",
+      "ServerUser": "edozlitedoings",
+      "Subname": "fast premium ",
+      "sInfo": "Server Info"
+    }
+  ],
+  "Tweaks": [
+    {
+      "DNSHost": "",
+      "Flag": "icon",
+      "Json": "",
+      "Mode": "SSH",
+      "Name": "Airtel 150mbs",
+      "Payload": "METFONE /cdn-cgi/trace, HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host] [crlf],Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "ProxyIP": "viton.com",
+      "ProxyPort": "80",
+      "SNI": "",
+      "SshMode": "HTTP Direct",
+      "SslPort": "",
+      "Subname": "HTTP PROXY \u003e PAYLOAD",
+      "TunnelType": "2",
+      "V2BugHost": "",
+      "pInfo": ""
+    }
+  ],
+  "Version": "2.0"
+}
