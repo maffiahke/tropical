@@ -16,7 +16,7 @@
       "ServerPass": "doingsedozlite",
       "ServerUser": "edozlitedoings",
       "Subname": "",
-      "sInfo": "6tOep6VF0Wu4wp2i8bJ930nvADSTzn0K"
+      "sInfo": "premium ssh server "
     }
   ],
   "Tweaks": [
@@ -35,8 +35,8 @@
       "Subname": "HTTP PROXY \u003e PAYLOAD",
       "TunnelType": "2",
       "V2BugHost": "",
-      "pInfo": "IGbYxlKTFX04MmJWrbFmrPyF379vyJxeg57TjNwW6RM\u003d"
+      "pInfo": "Powered by Techjei "
     }
   ],
-  "Version": "2.1"
+  "Version": "2.1.0"
 }
