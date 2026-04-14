@@ -1,12 +1,12 @@
 {
   "EnableAds": true,
   "EnableTimer": true,
-  "Notes": "official Update ",
+  "Notes": "New Release \n\nInitial version ",
   "Password": "Techjei1",
   "Servers": [
     {
       "Flag": "gb",
-      "Name": "United kingdom",
+      "Name": "United kingdom ",
       "Port1": "22",
       "Port2": "80",
       "Port3": "443",
@@ -15,8 +15,8 @@
       "ServerIP": "vsa7.dozapp.xyz",
       "ServerPass": "doingsedozlite",
       "ServerUser": "edozlitedoings",
-      "Subname": "fast premium ",
-      "sInfo": "Server Info"
+      "Subname": "",
+      "sInfo": "6tOep6VF0Wu4wp2i8bJ930nvADSTzn0K"
     }
   ],
   "Tweaks": [
@@ -25,7 +25,7 @@
       "Flag": "icon",
       "Json": "",
       "Mode": "SSH",
-      "Name": "Airtel 150mbs",
+      "Name": "Airtel 150mbs ",
       "Payload": "METFONE /cdn-cgi/trace, HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host] [crlf],Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "ProxyIP": "viton.com",
       "ProxyPort": "80",
@@ -35,8 +35,8 @@
       "Subname": "HTTP PROXY \u003e PAYLOAD",
       "TunnelType": "2",
       "V2BugHost": "",
-      "pInfo": ""
+      "pInfo": "IGbYxlKTFX04MmJWrbFmrPyF379vyJxeg57TjNwW6RM\u003d"
     }
   ],
-  "Version": "2.0"
+  "Version": "2.1"
 }
