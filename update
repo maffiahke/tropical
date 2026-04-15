@@ -49,7 +49,7 @@
       "Subname": "HTTP PROXY \u003e PAYLOAD",
       "TunnelType": "2",
       "V2BugHost": "",
-      "pInfo": "Powered by Techjei "
+      "pInfo": "powered by Techjei"
     },
     {
       "DNSHost": "",
@@ -69,5 +69,5 @@
       "pInfo": "Powered by Techjei "
     }
   ],
-  "Version": "2.1.1"
+  "Version": "2.1.2"
 }
